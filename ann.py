@@ -1,5 +1,10 @@
 # Artificial Neural Network
-
+##################################################
+## ver1
+##################################################
+## Author: {Harika Gaggara}
+## Copyright: Copyright {2020}, {NN classification}
+##################################################
 # Installing Theano
 # pip install --upgrade --no-deps git+git://github.com/Theano/Theano.git
 
@@ -13,7 +18,6 @@
 
 # Importing the libraries
 import numpy as np
-import matplotlib.pyplot as plt
 import pandas as pd
 
 dataset = pd.read_csv("Churn_Modelling.csv")
